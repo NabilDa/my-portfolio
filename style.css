@@ -5,7 +5,7 @@ body {
 /* Navigation Bar */
 
 #home {
-  background-color:  #7600bc;
+  background-color:  #244855;
   padding-bottom: 1cm;
   margin-left:-1cm;
   margin-right:-1cm;
@@ -16,7 +16,7 @@ body {
  }
 
 .topmenu {
-  color: lightgray;
+  color: white;
   margin: 10px;
   padding: 20px;
   font-size: 20px;
@@ -64,7 +64,7 @@ h2 {
   font-size: 50px;
   text-align: center;
   float: left;
-  color: #7600bc;
+  color: #e64833;
   margin: 30px;
   margin-left: 60px;
   margin-top: 40px;
@@ -98,12 +98,14 @@ h2 {
 #about-me h1 {
   font-size: 65px;
   margin-top: 90px;
-  color: #7600bc;
+  margin-left: 20px;
+  color: #e64833;
 }
 
 #about-me p {
   font-size: 25px;
-  color: rgb(128, 128, 128);
+  margin-left: 20px;
+  color: black;
   margin-top: -1cm;
 }
 
@@ -216,7 +218,7 @@ h2 {
 }
 
 .recommendation span {
-  color: #7600bc;
+  color: #e64833;
   font-size: 20px;
   font-family: 'Times New Roman', Times, serif;
 }
@@ -227,7 +229,7 @@ h2 {
   width: 48px;
   height: 48px;
   border-radius: 100%;
-  background-color: #7600bc;
+  background-color: #244855;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -241,7 +243,7 @@ h2 {
 
 .popup {
   width:400px;
-  background-color: #e8bcf0;
+  background-color: #90aead;
   border-radius: 3mm;
   top: 50%;
   left:50%;
@@ -258,8 +260,8 @@ h2 {
 
 .popup button {
   background-color: #fff;
-  border: 1px solid #7600bc;
-  color: #7600bc;
+  border: 1px solid #244855;
+  color: #244855;
   display: block;
   border-radius: 6px;
   text-align: center;
@@ -272,8 +274,8 @@ h2 {
 
 .popup button:hover {
   background-color: #fff;
-  border: 2px solid #7600bc;
-  color: #7600bc;
+  border: 2px solid #90aead;
+  color: #90aead;
   display: block;
   font-weight: bolder;
   text-align: center;
@@ -304,8 +306,8 @@ fieldset {
 
 button {
   background-color: #fff;
-  border: 1px solid #7600bc;
-  color: #7600bc;
+  border: 1px solid #244855;
+  color: #244855;
   display: block;
   border-radius: 6px;
   text-align: center;
@@ -316,8 +318,8 @@ button {
 }
 
 button:hover {
-  background-color: #7600bc;
-  border: 1px solid #7600bc;
+  background-color: #90aead;
+  border: 1px solid #90aead;
   color: #fff;
   display: block;
   border-radius: 6px;
